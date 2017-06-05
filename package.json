@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "0.0.1",
+  "description": "Project for self-study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Mak1/express.git"
+  },
+  "author": "Vyacheslav Makushin (http://s-mak.su)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Mak1/express/issues"
+  },
+  "homepage": "https://github.com/S-Mak1/express#readme",
+	"dependencies": {
+    "express": "^4.15.3"
+  }
+}
